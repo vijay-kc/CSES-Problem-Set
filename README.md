@@ -7,4 +7,6 @@ https://cses.fi/user/202163<br><br>
 2.Missing Number<br>
 3.Repetitions<br>
 4.Increasing Array<br>
-5.Permutations
+5.Permutations<br>
+6.Number Spiral<br>
+7.Two Knights
