@@ -9,4 +9,5 @@ https://cses.fi/user/202163<br><br>
 4.Increasing Array<br>
 5.Permutations<br>
 6.Number Spiral<br>
-7.Two Knights
+7.Two Knights<br>
+9.Bit Strings<br>
