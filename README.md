@@ -11,3 +11,5 @@ https://cses.fi/user/202163<br><br>
 6.Number Spiral<br>
 7.Two Knights<br>
 9.Bit Strings<br>
+10.Trailing Zeros<br>
+11.Coin Piles
