@@ -12,4 +12,5 @@ https://cses.fi/user/202163<br><br>
 7.Two Knights<br>
 9.Bit Strings<br>
 10.Trailing Zeros<br>
-11.Coin Piles
+11.Coin Piles<br>
+12.Palindrome Reorder
