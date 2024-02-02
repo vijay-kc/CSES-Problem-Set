@@ -2,7 +2,11 @@
 CSES problem solution using c++ language.<br><br>
 YOU CAN CHECK MY CSES ID.<br>
 
-https://cses.fi/user/202163<br><br>
+[vijay_kc](https://cses.fi/user/202163)<br>
+# Instruction
+You can click on the question to go on the question and for solution of that question click on the sol.
+# Quetion
+
  1.[Weird Algorithm](https://cses.fi/problemset/task/1068) -> [sol](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/Weird_Algorithm.cpp)
 
 1.Weird Algorithm<br>
