@@ -3,7 +3,7 @@ CSES problem solution using c++ language.<br><br>
 YOU CAN CHECK MY CSES ID.<br>
 
 https://cses.fi/user/202163<br><br>
- 1.[Weird Algorithm](/Introductory%20Problems/Weird%20Algorithm.cpp) -> [sol](https://cses.fi/problemset/task/1068)
+ 1.[Weird Algorithm](https://cses.fi/problemset/task/1068) -> [sol](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/Weird_Algorithm.cpp)
 
 1.Weird Algorithm<br>
 2.Missing Number<br>
