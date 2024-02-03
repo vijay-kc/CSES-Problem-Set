@@ -19,4 +19,4 @@ You can click on the question to go on the question and for solution of that que
 10. [Trailing Zeros](https://cses.fi/problemset/task/1618) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/trailing_zero.cpp)<br>
 11. [Coin Piles](https://cses.fi/problemset/task/1754) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/coin_piles.cpp)<br>
 12. [Palindrome Reorder](https://cses.fi/problemset/task/1755) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/palindrome_recorder.cpp)<br>
-13. [Gray Code](https://cses.fi/problemset/task/2205) -> [sol](
+13. [Gray Code](https://cses.fi/problemset/task/2205) -> [sol](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/gray_code.cpp)<br>
