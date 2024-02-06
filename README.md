@@ -22,4 +22,5 @@ You can click on the question to go on the question and for solution of that que
 13. [Gray Code](https://cses.fi/problemset/task/2205) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/gray_code.cpp)<br>
 14. [Tower of Hanoi](https://cses.fi/problemset/task/2165) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/tower_of_hanoi.cpp)<br>
 15. [Creating Strings](https://cses.fi/problemset/task/1622) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/create_string.cpp)<br>
-16. 
+16. [Apple Division](https://cses.fi/problemset/task/1623) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/appleDivision.cpp)<br>
+17. 
