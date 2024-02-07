@@ -6,7 +6,7 @@ YOU CAN CHECK MY CSES ID.<br>
 # Instruction
 You can click on the question to go on the question and for solution of that question click on the sol.
 # Quetions
-
+<!--    []() -> []()<br>    -->
 1. [Weird Algorithm](https://cses.fi/problemset/task/1068) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/Weird_Algorithm.cpp)<br>
 2. [Missing Number](https://cses.fi/problemset/task/1083) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/Missing_Number.cpp)<br>
 3. [Repetitions](https://cses.fi/problemset/task/1069) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/repititions.cpp)<br>
@@ -23,4 +23,5 @@ You can click on the question to go on the question and for solution of that que
 14. [Tower of Hanoi](https://cses.fi/problemset/task/2165) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/tower_of_hanoi.cpp)<br>
 15. [Creating Strings](https://cses.fi/problemset/task/1622) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/create_string.cpp)<br>
 16. [Apple Division](https://cses.fi/problemset/task/1623) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/appleDivision.cpp)<br>
-17. 
+17.  []() -> []()<br>
+17. [Digit Queries](https://cses.fi/problemset/task/2431) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/digitqueries.cpp)<br>
