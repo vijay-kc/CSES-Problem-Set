@@ -25,4 +25,4 @@ You can click on the question to go on the question and for solution of that que
 16. [Apple Division](https://cses.fi/problemset/task/1623) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/appleDivision.cpp)<br>
 17. [Chessboard and Queens](https://cses.fi/problemset/task/1624) -> [sol.]()<br>
 18. [Digit Queries](https://cses.fi/problemset/task/2431) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/digitqueries.cpp)<br>
-19. [Distinct Numbers](https://cses.fi/problemset/task/1621) -> [sol.]()<br> 
+19. [Distinct Numbers](https://cses.fi/problemset/task/1621) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/DistinctNumbers.cpp)<br> 
