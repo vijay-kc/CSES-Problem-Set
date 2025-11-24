@@ -27,3 +27,5 @@ You can click on the question to go on the question and for solution of that que
 18. [Digit Queries](https://cses.fi/problemset/task/2431) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/digitqueries.cpp)<br>
 19. [Distinct Numbers](https://cses.fi/problemset/task/1621) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/DistinctNumbers.cpp)<br>
 20. [Apartments](https://cses.fi/problemset/task/1084) -> [sol.](https://github.com/vijay-kc/CSES-Problem-Set/blob/main/Apartments.cpp)<br>
+
+more coming soon …
