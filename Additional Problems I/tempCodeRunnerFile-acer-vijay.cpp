@@ -1,1 +1,0 @@
-gray_code.size() / 2
