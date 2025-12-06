@@ -24,6 +24,16 @@ int main()
     {
         cin >> coin[i];
     }
+
+    // vector<int>dp(s+1,-1);
+    // int ans = solve(s, coin,dp);
+    // if (ans == inf)
+    // {
+    //     cout << -1;
+    //     return 0;
+    // }
+    // cout << ans;
+
     vector<int> dp(s + 1, inf);
     dp[0] = 0;
     for (int i = 1; i <= s; i++)
